@@ -1,0 +1,26 @@
+{
+"code":0,
+"message":"OK",
+"data":[
+  {
+    "goodsId":0,
+    "spanSize":4,
+    "banners":[
+      "1",
+      "2",
+      "3"
+    ]
+  },
+
+ {
+"goodsId":1,
+"text":"明星用品",
+"imageUrl":"1",
+"spanSize":4
+}
+
+
+
+ ]
+
+}
